@@ -1,12 +1,10 @@
 {
-  "name": "TG File Share/Sharing Bot",
+  "name": "obtv",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
-    "telegram",
-    "file",
-    "sharing"
+    "telegram"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/owdver/Ob_TvFiles",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
@@ -72,4 +70,3 @@
     }
   }
 }
-
